@@ -1,0 +1,7 @@
+* pip install virtualenv
+* python -m virtualenv venv
+* source /venv/bin/activate
+* pip install django
+* django-admin startproject myApp .
+* python manage.py runserver
+* python manage.py startapp polls
